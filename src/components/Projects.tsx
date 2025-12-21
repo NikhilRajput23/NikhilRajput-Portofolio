@@ -5,7 +5,7 @@ const Projects = () => {
       description:
         "A full-stack web application for managing grocery products, users, and orders. Includes admin dashboard, product CRUD operations, and user-friendly UI.",
       technologies: ["Java", "MySQL","JDBC"],
-      github: "https://github.com/NikhilRajput23",
+      github: "https://github.com/NikhilRajput23/online-Grocery-Management-System",
       live: "#",
       image: "🛒",
       features: [
@@ -20,7 +20,7 @@ const Projects = () => {
       description:
         "A web-based CRUD application to Create, Read, Update, and Delete records using Node.js and MongoDB with RESTful APIs.",
       technologies: ["Node.js", "Express", "MongoDB", "EJS"],
-      github: "https://github.com/NikhilRajput23/CRUD-APP",
+      github: "https://github.com/NikhilRajput23/CRUDAPP",
       live: "https://crudapp-1-jnxt.onrender.com/",
       image: "🗂️",
       features: [
@@ -35,7 +35,7 @@ const Projects = () => {
       description:
         "A machine learning-based system to detect human emotions from facial expressions using CNN. Trained on FER2013 dataset and real-time camera input.",
       technologies: ["Python", "OpenCV", "TensorFlow", "CNN"],
-      github: "https://github.com/NikhilRajput23",
+      github: "https://github.com/NikhilRajput23/Emotion-Detection-Using-Machine-Learning",
       live: "#",
       mentor: "Mentor: Vikas Dubey",
       images: ["/add.jpg.png", "/add1.jpg.png"],
