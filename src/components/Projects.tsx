@@ -77,7 +77,23 @@ const Projects = () => {
         "Vote Management",
         "User Registration"
       ]
-    }
+    },
+   {
+  title: "Resume Analyzer",
+  description:
+    "A web application that analyzes resumes and shows job match percentage with skill insights.",
+  technologies: ["React", "TypeScript", "Vite", "Tailwind CSS"],
+  github: "https://github.com/NikhilRajput23/resume-analyzer",
+  live: "https://resumeanya.netlify.app",
+  image: "📄",
+  features: [
+    "Resume Skill Analysis",
+    "Job Match Percentage",
+    "Matched & Missing Skills",
+    "India-based Salary (₹)"
+  ]
+}
+
   ];
 
   return (
