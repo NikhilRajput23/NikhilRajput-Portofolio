@@ -27,7 +27,7 @@ const About = () => {
     { category: 'Programming', items: ['Core Java', 'JavaScript', 'Python (Basic)', 'OOP'] },
     { category: 'Frontend', items: ['React.js', 'HTML5', 'CSS3', ] },
     { category: 'Backend', items: ['Node.js', 'Express.js', 'RESTful APIs'] },
-    { category: 'Database', items: ['MySql ', ] },
+    { category: 'Database', items: ['MySql ','Mongodb', ] },
     { category: 'Tools', items: ['Git', 'GitHub', 'VS Code', 'Eclipse', 'PyCharm'] }
   ];
 
