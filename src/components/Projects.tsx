@@ -92,7 +92,23 @@ const Projects = () => {
     "Matched & Missing Skills",
     "India-based Salary (₹)"
   ]
+},
+{
+  title: "Student Task Manager (Android App)",
+  description:
+    "A native Android application that helps students manage daily tasks with full CRUD functionality using local SQLite database.",
+  technologies: ["Java", "Android Studio", "SQLite", "XML"],
+  github: "https://github.com/NikhilRajput23/Student-Task-Manager-Android-Java-",
+  live: "#",
+  image: "📱",
+  features: [
+    "Add / Update / Delete Tasks",
+    "SQLite Local Database",
+    "RecyclerView Task List",
+    "Simple & Clean UI"
+  ]
 }
+
 
   ];
 
